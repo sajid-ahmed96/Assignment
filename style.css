@@ -1,0 +1,140 @@
+.logo {
+    background-image: url(Images/Logo1.JPG);
+    background-repeat: no-repeat;
+}
+ul {
+    list-style: none;
+}
+.nv-btn {
+    width: 90px;
+    height: 42px;
+}
+
+.sec1 {
+    background-color: rgba(223, 221, 252, 0.151);
+}
+
+.box {
+    margin-left: 240px;
+    width: 550px;
+    height: 650px;
+}
+input {
+    border: none;
+    width: 350px;
+    height: 64px;
+    border-radius: 5px 0 0 5px;
+    box-shadow: 1px 1px 5px lightgray;
+    outline: none;
+}
+input::placeholder {
+    padding-left: 10px;
+}
+.con-inp-btn:focus {
+    padding-left: 10px;
+}
+.inp-btn {
+    border: none;
+    border-radius: 0 5px 5px 0;
+    background-color: rgba(218, 37, 37, 0.925);
+    color: white;
+    padding: 20px;
+    font-weight: bold;
+}
+.box1 {
+    width: 350px;
+    height: 250px;
+    transition: 0.5s;
+}
+.icon1 {
+    background-image: url(Images/Icon1.JPG);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    width: 80px;
+    height: 80px;
+}
+.box1:hover {
+    margin-top: -10px;
+}
+.box2 {
+    width: 350px;
+    height: 250px;
+    transition: 0.5s;
+}
+.icon2 {
+    background-image: url(Images/Icon2.JPG);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    width: 80px;
+    height: 80px;
+}
+.box2:hover {
+    margin-top: -10px;
+}
+.box3 {
+    width: 350px;
+    height: 250px;
+    transition: 0.5s;
+}
+.icon3 {
+    background-image: url(Images/Icon3.JPG);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    width: 80px;
+    height: 80px;
+}
+.box3:hover {
+    margin-top: -10px;
+}.vf1 {
+    background-color: rgba(223, 221, 252, 0.151);
+}
+.container-1 {
+    width: 95%;
+}
+.red {
+    height: 15px;
+    width: 15px;
+    background-color: red;
+    border-radius: 50%;
+    border: none;
+}
+.ourpartner {
+    background-position-x: center;
+    background-position-y: center;
+    background-color: white;
+    width: 156px;
+    height: 98px;
+    transition: 0.5s;
+}
+.width {
+    width: 130px;
+}
+.ourpartner:hover {
+    margin-top: -10px;
+}
+.customBorder {
+    border-right: 2px solid lightgray;
+}
+.textLight {
+    color: rgba(186, 196, 202, 0.788);
+}
+.box-content {
+    width: 60%;
+    color: rgba(161, 166, 168, 0.911);
+}
+.b-box {
+    border-radius: 8px;
+    transition: 0.5s;
+}
+.b-box:hover {
+    margin-top: -10px;
+}
+.inp-info {
+    border: 1px solid rgb(184, 184, 184);
+    border-radius: 8px;
+    background-color: rgba(225, 232, 233, 0.884);
+    outline: none;
+}
+.blog-image {
+    border-radius: 8px 8px 0 0;
+}
